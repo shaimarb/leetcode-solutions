@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solution {
+ class Solution {
 
     /**
      * Returns the indices of the two numbers such that they add up to the target.

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solution {
+ class Solution {
 
     /**
      * Returns a list of strings representing the FizzBuzz sequence from 1 to n.
